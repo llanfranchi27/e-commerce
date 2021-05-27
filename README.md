@@ -9,4 +9,9 @@
 - Commerce JS
 - Stripe
 
-Commerce js
+Over the past several years, e-commerce has rapidly evolved to become a combination of online and offline retail that is vertically integrated.  You can find numerous e-commerce companies selling various types of products and services. Their avenues of doing business are typically divided into three main categories:
+
+- Online marketplaces
+- Retail Sales
+- B2B
+
