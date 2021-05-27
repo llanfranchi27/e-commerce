@@ -5,6 +5,7 @@
 
 ## Technologies used
 - React
+- Javascript
 - Material UI
 - Commerce JS
 - Stripe
